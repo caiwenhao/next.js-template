@@ -1,1 +1,1 @@
-# Next.js-template
+# next.js-template
